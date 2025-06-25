@@ -14,7 +14,7 @@ Asistente conversacional especializado en ventas por Facebook Marketplace con id
 - Mantiene consistencia en negociaciones
 
 
-### requerimientos
+### Requerimientos
 - CPU: 4 núcleos (x86_64 con AVX)
 - RAM: 8GB
 - Python 3.10+
