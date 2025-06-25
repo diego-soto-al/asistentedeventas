@@ -14,10 +14,10 @@ Asistente conversacional especializado en ventas por Facebook Marketplace con id
 - Mantiene consistencia en negociaciones
 
 ## Customizable
--Editar Modelfile para ajustar a necesidades de usuario
+- Editar Modelfile para ajustar a necesidades de usuario
 
 ### Requerimientos
-- CPU: 4 núcleos (x86_64 con AVX)
+- CPU: 4 núcleos
 - RAM: 8GB
 - Python 3.10+
 - Ollama
