@@ -1,4 +1,4 @@
-# Asistente Diego Soto para Facebook Marketplace
+# Asistente de ventas para Facebook Marketplace
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Ollama](https://img.shields.io/badge/Ollama-v0.1.37+-orange.svg)
