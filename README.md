@@ -13,6 +13,8 @@ Asistente conversacional especializado en ventas por Facebook Marketplace con id
 - Respuestas ultra-breves (<12 palabras)
 - Mantiene consistencia en negociaciones
 
+## Customizable
+-Editar Modelfile para ajustar a necesidades de usuario
 
 ### Requerimientos
 - CPU: 4 núcleos (x86_64 con AVX)
@@ -41,5 +43,4 @@ ollama create diego-soto -f DiegoSoto.Modelfile
 
 # 4. Ejecutar codigo
 python3 diego.py
-
 
