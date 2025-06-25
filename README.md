@@ -29,3 +29,15 @@ Asistente conversacional especializado en ventas por Facebook Marketplace con id
 git clone https://github.com/diego-soto-al/asistentedeventas
 cd asistentedeventas
 
+# 2. Instalar Ollama y modelo
+curl -fsSL https://ollama.com/install.sh | sh
+ollama pull llama3.2
+pip install ollama
+
+# 3. Crear modelo
+ollama create diego-soto -f DiegoSoto.Modelfile
+
+# 4. Ejecutar codigo
+python3 diego.py
+
+
