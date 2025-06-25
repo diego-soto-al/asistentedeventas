@@ -13,26 +13,19 @@ Asistente conversacional especializado en ventas por Facebook Marketplace con id
 - Respuestas ultra-breves (<12 palabras)
 - Mantiene consistencia en negociaciones
 
-##  Requisitos técnicos
 
-### Mínimos
+### requerimientos
 - CPU: 4 núcleos (x86_64 con AVX)
 - RAM: 8GB
-- Docker o Python 3.10+
+- Python 3.10+
 
 ### Recomendados
 - RAM: 16GB
-- GPU: NVIDIA con 6GB+ VRAM (opcional)
 
 ## Instalación rápida
 
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/tuusuario/asistente-diego.git
-cd asistente-diego
+git clone https://github.com/diego-soto-al/asistentedeventas
+cd asistentedeventas
 
-# 2. Construir con Docker (recomendado)
-docker build -t diego-assistant .
-
-# 3. Ejecutar
-docker run -it --rm diego-assistant
